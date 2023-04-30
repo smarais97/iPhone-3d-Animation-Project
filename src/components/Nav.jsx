@@ -5,7 +5,7 @@ import Store from '../assets/images/store.svg';
 
 function Nav() {
     return (
-        <nav className='nav-wrapper heading-17'>
+        <nav className='nav-wrapper'>
             <div className='nav-content'>
                 <ul className='list-styled'>
                     <li><img src={Logo} alt='Apple' /></li>
